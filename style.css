@@ -1,0 +1,178 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border-bottom: 1px solid red;
+    font-size: 25px;
+    text-align: center;
+}
+
+.o_1 {
+    text-decoration: none;
+    border: 1px solid;
+    margin: 15px;
+    border-radius: 5px;
+    color: black;
+    padding: 15px;
+    text-align: center;
+}
+
+header a{
+    text-decoration: none;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 2px;
+    color: black;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 30px;
+    border-radius: 5px;
+    color: black;
+    padding: 5px;
+    font-size: 20px;
+    border: 3px dotted forestgreen;
+}    
+
+nav {
+    text-decoration: none;
+    border: 1px solid;
+    margin: 15px;
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+    border-bottom: 2px solid navy;
+    text-align: center;
+}
+
+h1 {
+    border: 2px solid;
+    margin: 15px;
+    border-radius: 15px;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    background-color: thistle;
+}
+
+footer {
+    border: 2px solid;
+    margin: 20px;
+    border-radius: 15px;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    background-color: thistle;
+}
+
+.p_1 {
+    border: 2px solid;
+    margin: 20px;
+    border-radius: 20px;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    background-color: gainsboro;
+}
+
+.h_1 {
+    border: 2px solid;
+    margin: 20px;
+    border-radius: 5px;
+    color: blue;
+    padding: 15px;
+    text-align: center;
+    background-color: hotpink;
+}
+
+.p_2 {
+    border: 2px solid;
+    margin: 20px;
+    border-radius: 5px;
+    color: red;
+    text-align: center;
+    background-color: hotpink;
+}
+
+.img_1 {
+    border: 2px solid;
+    border-radius: 5px;
+    color: firebrick;
+}
+
+.img_2 {
+    border: 5px solid;
+    border-radius: 5px;
+    color: firebrick;
+    text-align: center;
+}
+
+.h2_1 {
+   border: 2px solid;
+    margin: 20px;
+    border-radius: 20px;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    background-color: gainsboro;
+}
+
+.p_4 {
+    color: blue;
+    font-size: 20px;
+}
+
+.h2_2 {
+    color: blue;
+    font-size: 40px;
+}
+
+.c_1 {
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.c_2 {
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.p_5 {
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.h2_3 {
+   border: 2px solid;
+    margin: 20px;
+    border-radius: 20px;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    background-color: gainsboro;
+}
+
+.p_8 {
+   text-align: center;
+}
+
+.o_2 {
+    text-decoration: none;
+    color: black;
+    padding: 40px;
+    text-align: center;
+    border-bottom: 2px solid navy;
+}
